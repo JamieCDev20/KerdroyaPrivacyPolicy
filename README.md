@@ -19,6 +19,12 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
+**Facial Tracking**
+
+The Kerdroya app (iOS) uses the iPhone’s TrueDepth camera system (if available on device) to track the movement of a user’s face to place a mask over the users face. For this to work, the app requires access to the user’s device camera. The only use of this information is to track the user’s head and face. None of the information collected by the TrueDepth API ever leaves the user's device nor is it persistently stored on the device. Kerdroya does not store, or retain, any data captured by the TrueDepth camera on our servers or use customer face data for any purpose other than the app’s core functionality. The app does not and will not use customer face data to personally identify any user.
+
+
+
 **Log Data**
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
